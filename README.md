@@ -20,4 +20,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 ## Misc
 
-Checking if github still prompts me for ssh password!
+Checking if github still prompts me for ssh password!!
